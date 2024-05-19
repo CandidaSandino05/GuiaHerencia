@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\GuiaHerencia\GuiaHerencia\bin\Debug\net8.0\GuiaHerencia.exe
+C:\Users\HP\source\repos\GuiaHerencia\GuiaHerencia\bin\Debug\net8.0\GuiaHerencia.deps.json
+C:\Users\HP\source\repos\GuiaHerencia\GuiaHerencia\bin\Debug\net8.0\GuiaHerencia.runtimeconfig.json
+C:\Users\HP\source\repos\GuiaHerencia\GuiaHerencia\bin\Debug\net8.0\GuiaHerencia.dll
+C:\Users\HP\source\repos\GuiaHerencia\GuiaHerencia\bin\Debug\net8.0\GuiaHerencia.pdb
+C:\Users\HP\source\repos\GuiaHerencia\GuiaHerencia\obj\Debug\net8.0\GuiaHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\GuiaHerencia\GuiaHerencia\obj\Debug\net8.0\GuiaHerencia.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\GuiaHerencia\GuiaHerencia\obj\Debug\net8.0\GuiaHerencia.AssemblyInfo.cs
+C:\Users\HP\source\repos\GuiaHerencia\GuiaHerencia\obj\Debug\net8.0\GuiaHerencia.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\GuiaHerencia\GuiaHerencia\obj\Debug\net8.0\GuiaHerencia.dll
+C:\Users\HP\source\repos\GuiaHerencia\GuiaHerencia\obj\Debug\net8.0\refint\GuiaHerencia.dll
+C:\Users\HP\source\repos\GuiaHerencia\GuiaHerencia\obj\Debug\net8.0\GuiaHerencia.pdb
+C:\Users\HP\source\repos\GuiaHerencia\GuiaHerencia\obj\Debug\net8.0\GuiaHerencia.genruntimeconfig.cache
+C:\Users\HP\source\repos\GuiaHerencia\GuiaHerencia\obj\Debug\net8.0\ref\GuiaHerencia.dll
